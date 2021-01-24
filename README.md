@@ -1,2 +1,2 @@
-#Este es el inicio de una base de datos para el registro de pacientes y su seguimiento con su medico tratante.# Doctor-s-Home
-#este es el intento numero dos de conectarme, me acaba de borrar 3 archivos
+#Este es el inicio de una base de datos para el registro de pacientes y su seguimiento con su medico tratante. Es el intento de una plataforma simple, que tenga condicionantes para decidir  mandar o no notificaciones a una cuenta de altos privilegios (para el médico) sobre usuarios de bajos privilegios(los pacientes), tratando de monitorizar los cambios alarmantes en sus signos, mediante notificaciones al celular del médico o usuario con altos privilegios.
+#la estructura de la pagina es simple, registro de usuarios,  superusuario, y condicionantes en backend, y lo que se le muestre al usuario en el frontend.

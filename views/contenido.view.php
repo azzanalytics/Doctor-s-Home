@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>Contenido</title>
+	<title>CONTENIDO</title>
 </head>
 <body>
 	<div>
 		<h1>Contenido del titulo</h1>
-		<a href="cerrar.php">Cerrar sesion</a>
+		<a href="cerrar.php">Cerrar sesión</a>
 		<div>
 			<article>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

@@ -35,7 +35,7 @@
 
 		<p>
 			¿Ya tienes cuenta? <br>
-			<a href="login.php">Iniciar Secion</a>
+			<a href="login.php">Iniciar Sesión</a>
 		</p>
 	</div>
 </body>

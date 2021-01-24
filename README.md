@@ -1,2 +1,2 @@
 Este es el inicio de una base de datos para el registro de pacientes y su seguimiento con su medico tratante.
-la estructura de la pagina es simple, registro de usuarios,  superusuario, y condicionantes en backend, y lo que se le muestre al usuario en el frontend. Segundo proyecto.
+La estructura de la pagina es simple, pues es una base de datos: registro de usuarios,  superusuario, y condicionantes en backend, y lo que se le muestre al usuario en el frontend. Segundo proyecto.

@@ -1,1 +1,1 @@
-Este es el inicio de una base de datos.
+Registro de usuarios con php de base de datos. #Concluido.

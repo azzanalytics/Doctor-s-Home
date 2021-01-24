@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>Iniciar Sesion</title>
+	<title>Iniciar Sesión</title>
 </head>
 <body>
 	<div>
@@ -30,7 +30,7 @@
 		</form>
 
 		<p>
-			¿Aun no tienes cuenta? <br>
+			¿Aún no tienes cuenta? <br>
 			<a href="registrate.php">Registrate</a>
 		</p>
 	</div>

@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 		$errores .= '<li>Por favor rellena todos los datos</li>';
 	} else {
 		try {
-			$conexion = new PDO('mysql:host=azzanalytics.org;dbname=login', 'root', '');
+			$conexion = new PDO('mysql:host:p3plzcpnl437847.prod.phx3.secureserver.net;dbname=login', 'root', '');
 		} catch (PDOExeption $e) {
 			echo "Error: " . $e->getMessage();
 		}

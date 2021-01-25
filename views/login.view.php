@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div>
-		<h1 class="titulo">Iniciar Sesion</h1>
+		<h1 class="titulo">Iniciar Sesión</h1>
 
 		<form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="POST" class="formulario" name="login">
 			<div>

@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
 	try {
-		$conexion = new PDO('mysql:host=3306;dbname=login', 'root', '');
+		$conexion = new PDO('mysql:host=azzanalytics.org;dbname=login', 'root', '');
 	} catch (PDOException $e) {
 		echo "Error:" . $e->getMessage();;
 	}

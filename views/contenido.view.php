@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div>
-		<h1>Contenido del titulo</h1>
+		<h1>Proyecto Aglaya</h1>
 		<a href="cerrar.php">Cerrar sesión</a>
 		<div>
 			<article>
